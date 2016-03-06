@@ -23,7 +23,7 @@
     "emailjs-addressparser": "^1.0.1",
     "emailjs-imap-handler": "^1.0.0",
     "emailjs-mime-codec": "^1.0.1",
-    "emailjs-tcp-socket": "^1.0.1",
+    "emailjs-tcp-socket": "git+https://github.com/c-f-h/emailjs-tcp-socket.git#dev/temp",
     "emailjs-utf7": "^3.0.1"
   },
   "devDependencies": {
